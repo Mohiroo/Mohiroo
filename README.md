@@ -1,4 +1,4 @@
-# Frontend разработчик ![wave](https://user-images.githubusercontent.com/88396768/161276491-2c8bdb8f-2aef-47af-9baf-2b07331ecc7d.gif)
+# Frontend разработчик <img src="https://user-images.githubusercontent.com/88396768/161277401-fa9b56d1-eb20-40f8-9886-3039c37e69b8.gif" width="30px">
 
 Увлечен миром IT, но наибольший интерес к frontend'у.
 
