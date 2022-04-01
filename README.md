@@ -1,4 +1,4 @@
-# Frontend разработчик ![wave](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif)
+# Frontend разработчик ![wave](https://user-images.githubusercontent.com/88396768/161276491-2c8bdb8f-2aef-47af-9baf-2b07331ecc7d.gif)
 
 Увлечен миром IT, но наибольший интерес к frontend'у.
 
